@@ -1,0 +1,17 @@
+{
+  "name": "node-pokemon-api",
+  "version": "1.0.0",
+  "description": "Une api reste permettant de servir des pokemons",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Omar.A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
